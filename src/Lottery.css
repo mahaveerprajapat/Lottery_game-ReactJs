@@ -1,0 +1,7 @@
+
+.Container{
+    border: 2px solid pink;
+    border-radius: 15px;
+    padding: 20px 20px;
+    margin-bottom: 20px;
+}
